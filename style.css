@@ -1,3 +1,14 @@
+.text-citation {
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+.text-citation-fourchettes {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
 .styled {
     border: 0;
     line-height: 2.5;
@@ -59,6 +70,14 @@
 .text-center mg-lg tc-white tight-width-whitespace{
     color: white;
     opacity: 1;
+}
+.tc-white-contact {
+    color: white;
+    opacity: 1;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    
 }
 html{
 -webkit-tap-highlight-color: transparent;
